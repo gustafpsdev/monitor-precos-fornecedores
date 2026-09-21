@@ -1,0 +1,6 @@
+produtos.csv
+historico_precos.csv
+monitor.log
+.env
+__pycache__/
+*.pyc
